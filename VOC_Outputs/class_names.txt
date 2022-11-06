@@ -1,0 +1,10 @@
+_background_
+anterior mandible mild
+anterior mandible moderate
+anterior mandible severe
+left posterior mandible mild
+left posterior mandible moderate
+left posterior mandible severe
+right posterior mandible mild
+right posterior mandible moderate
+right posterior mandible severe
