@@ -1,0 +1,14 @@
+requests 
+pillow 
+requests_toolbelt
+imutils
+torch
+opencv-python
+numpy
+python-math
+torchvision
+matplotlib
+torch.optim
+scikit-learn
+tqdm
+albumentations
